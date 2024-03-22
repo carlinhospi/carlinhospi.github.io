@@ -1,0 +1,22 @@
+<!DOCTYPE html>
+<html lang="es">
+<head>
+    <meta charset="UTF-8">
+    <title>Título de la Página</title>
+</head>
+<body>
+
+    <h1>Encabezado Principal</h1>
+    <p>Este es un párrafo de ejemplo para mostrar cómo se estructura el contenido en HTML.</p>
+    
+    <h2>Subtítulo</h2>
+    <p>Otro párrafo más para complementar la información.</p>
+    
+    <ul>
+        <li>Elemento de lista 1</li>
+        <li>Elemento de lista 2</li>
+        <li>Elemento de lista 3</li>
+    </ul>
+    
+</body>
+</html>
